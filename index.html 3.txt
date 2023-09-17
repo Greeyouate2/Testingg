@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>検証用 - どっちが優先される？</title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        検証用
+      </h1>
+    </header>
+    <div>
+      <hi>
+        今回の検証は どっちが優先される？です
+      </hi>
+    </div>
+  </body>
+</html>
